@@ -1,1 +1,2 @@
 testing auto build
+SCM Trigger test 2
